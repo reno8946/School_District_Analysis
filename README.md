@@ -32,9 +32,30 @@ The students_complete.csv file shows evidence of academic dishonesty; specifical
 
    - When runniing the per_school_summary_df in the challenge with passing math, passing reading, and overall passing percentages updated after removing 9th graders for Thomas       High School, here is the result:
    
- ![image](https://user-images.githubusercontent.com/70483866/94389975-f79b7200-0116-11eb-93a6-686ab300680a.png)  
+ ![image](https://user-images.githubusercontent.com/70483866/94389975-f79b7200-0116-11eb-93a6-686ab300680a.png)
  
-      -The passing math, passing reading, and overall passing percentages skyrocketed once taking out math and reading scores of 9th graders by nearly 30% among the three      categories.
+-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+ 
+      -The passing math, passing reading, and overall passing percentages skyrocketed once replacing the math and reading scores of 9th graders with NaN by nearly 30% among the three categories and brought Thomas High School within the top 5 best performing schools.
+
+-How does replacing the ninth-grade scores affect the following:
+
+  - Math and reading scores by grade:
+  
+  - Scores by school spending:
+  
+  - Scores by school size:
+  
+  - Scores by school type:
+  
+      -Overall, there were no differences found between math and reading scores by grade, scores by school spending, scores by school size, and scores by school type when replacing the 9th grade scores. While it did affect specifically Thomas High School's rank, it did not have an effect on the overall big picture between when it was ran in the module versus in the challenge. See charts below to notice the lack of difference in outputs from what was ran in the module exercise.
+      
+![image](https://user-images.githubusercontent.com/70483866/94391056-223afa00-011a-11eb-9cce-b3ae432100d6.png)
+
+![image](https://user-images.githubusercontent.com/70483866/94391095-3f6fc880-011a-11eb-956a-7780fd77d3ca.png)
+
+![image](https://user-images.githubusercontent.com/70483866/94391127-557d8900-011a-11eb-8ac0-d08196176f20.png)
+
       
 ## Election-Audit Summary
 
