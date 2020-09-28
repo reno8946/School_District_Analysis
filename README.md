@@ -34,7 +34,7 @@ The students_complete.csv file shows evidence of academic dishonesty; specifical
    
  ![image](https://user-images.githubusercontent.com/70483866/94389975-f79b7200-0116-11eb-93a6-686ab300680a.png)  
  
-      -The passing math, passing reading, and overall passing percentages skyrocketed once taking out math and reading scores of 9th graders by nearly 30% among the three              categories.
+      -The passing math, passing reading, and overall passing percentages skyrocketed once taking out math and reading scores of 9th graders by nearly 30% among the three      categories.
       
 ## Election-Audit Summary
 
