@@ -57,6 +57,18 @@ The students_complete.csv file shows evidence of academic dishonesty; specifical
 ![image](https://user-images.githubusercontent.com/70483866/94391127-557d8900-011a-11eb-8ac0-d08196176f20.png)
 
       
-## Election-Audit Summary
+## School District Analysis Summary
 
-Since Diana DeGette won by an overwhelming majority with over 70% of the votes while the overwhelming majority of votes came from Denver with over 80%, I would advice the election commission investigate further into the ties between the winning candidate and Denver county and if there is reason to consider voter fraud being a legitimate possibility. This script can serve as a beneficial tool for future elections because of how straightforward and easy to read it is. It would be best for future elections that are based solely on popular vote because of the breakdowns of county and candidates by percentage and raw counts. For task #7, I would have included the percentage and number of votes in addition to just the name of the largest county turnout, similar to what was done for the winning candidate in the section below it. Additionally, I would suggest the political party that candidate represents be listed next to their name and that there be a header present displaying the specific position and district/area being elected for.
+Overall, after replacing the 9th grade reading and math scores at Thomas High School with NaN, the overall big picture didn't change a whole lot. However, Thomas High School did see a drastic increase in their:
+
+  - Math passing percentage (66.915 -> 93.18%)
+  
+  - Reading passing percentage (69.66% -> 97.01%)
+  
+  - Overall passing percentage (65.07% -> 90.63%)  
+  
+  - This propelled them from one of the lower tier performing schools to within the top five best performing schools in the district at second place overall, right behind Cabrera High School
+
+![image](https://user-images.githubusercontent.com/70483866/94391529-46e3a180-011b-11eb-99c3-bc738c74fad8.png)
+
+
