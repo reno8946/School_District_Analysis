@@ -69,6 +69,12 @@ Overall, after replacing the 9th grade reading and math scores at Thomas High Sc
   
   - This propelled them from one of the lower tier performing schools to within the top five best performing schools in the district at second place overall, right behind Cabrera High School
 
+Before:
+
+![image](https://user-images.githubusercontent.com/70483866/94392546-2c5ef780-011e-11eb-97dd-ceee2bda24fc.png)
+
+After:
+
 ![image](https://user-images.githubusercontent.com/70483866/94391529-46e3a180-011b-11eb-99c3-bc738c74fad8.png)
 
 
